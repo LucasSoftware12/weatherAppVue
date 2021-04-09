@@ -4,4 +4,4 @@
 ```
 npm install
 ```
-
+![alt text](https://github.com/LucasSoftware12/weatherAppVue/blob/main/Capture.PNG)
