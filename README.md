@@ -1,2 +1,7 @@
-# weatherAppVue
-a weather app
+# vue-weather-app
+
+## Project setup
+```
+npm install
+```
+
